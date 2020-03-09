@@ -6,7 +6,8 @@ namespace K5Slutprojekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("First Git-Test");
+            Console.ReadLine();
         }
     }
 }
